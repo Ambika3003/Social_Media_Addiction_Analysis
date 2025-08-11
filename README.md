@@ -34,7 +34,7 @@ Addiction Score (Target variable).
   
 - Pivot tables for comparative insights.
   
-- Dashboard with: [View Excel Dashboard](social_media_addiction_dashboard1.png)
+- Dashboard with: [View Excel Dashboard](https://github.com/Ambika3003/Social_Media_Addiction_Analysis/blob/main/images/social_media_addiction_dashboard1.png)
 
 📌 KPIs (Average Addicted Score, % of students affected academically, Students in each level).
 📊 Charts (Bar, Line, Pie) for
